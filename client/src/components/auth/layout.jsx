@@ -1,3 +1,4 @@
+import { Outlet } from 'react-router-dom';
 
 function AuthLayout() {
     return (
@@ -14,3 +15,5 @@ function AuthLayout() {
 
     );
 }
+
+export default AuthLayout
