@@ -1,7 +1,5 @@
-function NotFound(){
-    return (
-        <div>This page does not exisit</div>
-    )
+function NotFound() {
+  return <div>page doesn't exists</div>;
 }
 
 export default NotFound;
